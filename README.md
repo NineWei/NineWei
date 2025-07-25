@@ -31,4 +31,4 @@ Tenho conhecimentos em **automações básicas com Shell Script**, uso de ferram
 
 ## Status
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulotruly&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NineWei&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
