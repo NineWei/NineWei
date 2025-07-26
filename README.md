@@ -31,10 +31,10 @@ Estou construindo uma base sólida em **Linux, scripts com Bash e Python, contai
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### 🎓 **Formação**
-- Tecnólogo em Segurança da Informação (2025-2026, Faculdade de Boa Viagem)
-- Desenvolvimento Full Stack (2024-2025, Infinity School)
-- Tecnólogo em Análise e Desenvolvimento de Sistemas (2022-2024, Estácio)
-- Bacharelado em Administração (2018-2022, UNIFG)
+- Tecnólogo em **Segurança da Informação** (2025-2026, Faculdade de Boa Viagem)
+- **Desenvolvimento Full Stack** (2024-2025, Infinity School)
+- Tecnólogo em **Análise e Desenvolvimento de Sistemas** (2022-2024, Estácio)
+- Bacharelado em **Administração** (2018-2022, UNIFG)
 
 ### 🛠️ **Projetos**
 
