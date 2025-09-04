@@ -8,17 +8,16 @@
 
 ## 🚀 Sobre mim
 
-Estudante de **Segurança da Informação**, em transição para as áreas de **segurança digital, riscos e análise de incidentes**. Tenho experiência na área administrativa/financeira, com vivência em análise de processos e detecção de inconsistências. Hoje, atuo com detecção de inconsistências, investigação de fraudes e monitoramento de sistemas, com foco na identificação de comportamentos suspeitos e apoio à resolução de falhas operacionais e técnicas.
-
-Estou construindo uma base sólida em **Linux, scripts com Bash e Python, containers com Docker**, além de ferramentas de **monitoramento e observabilidade** como **Grafana** e **Prometheus**.
+Estudante de **Segurança da Informação**, em transição para as áreas de **sistemas, monitoramento, e análise de incidentes**. Tenho experiência na área administrativa/financeira, com vivência em análise de processos e detecção de inconsistências. Hoje, atuo com detecção de inconsistências, investigação de fraudes.   
+Atualmente estudo sobre **Linux, scripts com Bash e Python, containers com Docker**, além de ferramentas de **monitoramento e observabilidade** como **Grafana** e **Prometheus**.
 
 🧠 Atualmente estudando:
 - Fundamentos de redes e logs
-- Boas práticas de segurança da informação
+- Boas práticas de segurança e prevenção de falhas
 - Cloud
-- Inglês técnico aplicado a incidentes
+- Inglês técnico
 
-📚 Também possuo noções em **desenvolvimento web** com **HTML, CSS e JavaScript**, o que facilita a leitura de código e a atuação em ambientes integrados.
+📚 Também possuo noções em **desenvolvimento web** com **HTML, CSS, Python e Java**, o que facilita a leitura de código e a atuação em ambientes integrados.
 
 ---
 
@@ -28,7 +27,7 @@ Estou construindo uma base sólida em **Linux, scripts com Bash e Python, contai
 
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) 
 
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### 🎓 **Formação**
 - Tecnólogo em **Segurança da Informação** (2025-2026, Faculdade de Boa Viagem)
