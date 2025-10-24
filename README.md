@@ -8,14 +8,16 @@
 
 ## 🚀 Sobre mim
 
-Estudante de **Segurança da Informação**, em transição para as áreas de **sistemas, monitoramento, e análise de incidentes**. Tenho experiência na área administrativa/financeira, com vivência em análise de processos e detecção de inconsistências. Hoje, atuo com detecção de inconsistências, investigação de fraudes.   
-Atualmente estudo sobre **Linux, scripts com Bash e Python, containers com Docker**, além de ferramentas de **monitoramento e observabilidade** como **Grafana** e **Prometheus**.
+Estagiária e estudante de DevOps, apaixonada por tecnologia e resolução de problemas.  
+Curiosa e proativa, gosto de aprender novas ferramentas, colaborar com equipes e colocar a mão na massa.   
 
 🧠 Atualmente estudando:
-- Fundamentos de redes e logs
-- Boas práticas de segurança e prevenção de falhas
-- Cloud
-- Inglês técnico
+- Kubernetes
+- K9s
+- IaC
+- CI (Integração Contínua)
+- GitLab
+- Grafana, Kibana e Prometheus
 
 📚 Também possuo noções em **desenvolvimento web** com **HTML, CSS, Python e Java**, o que facilita a leitura de código e a atuação em ambientes integrados.
 
@@ -27,15 +29,14 @@ Atualmente estudo sobre **Linux, scripts com Bash e Python, containers com Docke
 
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) 
 
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### 🎓 **Formação**
 - Tecnólogo em **Segurança da Informação** (2025-2026, Faculdade de Boa Viagem)
-- **Desenvolvimento Full Stack** (2024-2025, Infinity School)
 - Tecnólogo em **Análise e Desenvolvimento de Sistemas** (2022-2024, Estácio)
 - Bacharelado em **Administração** (2018-2022, UNIFG)
 
-### 🛠️ **Projetos**
+### 🛠️ **Projeto de monitoramento de logs e métricas de sistemas Linux usando Grafana e Prometheus.**
 
 [![Repo](https://img.shields.io/badge/Projeto-Monitoramento%20com%20Grafana%20e%20Prometheus-30363F?style=flat-square&logo=github&logoColor=white)](https://github.com/NineWei/linux_lab_incidents)
 
